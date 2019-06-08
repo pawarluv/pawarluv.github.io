@@ -37,7 +37,7 @@ margin: 0;
   padding-left: 20px;
   }
   #header {
-    background-color: #1abc9c;
+    background-color: #f47442;
     height: 150px;
     line-height: 150px;
   }
@@ -64,6 +64,21 @@ margin: 0;
 }
 a {
   color: #1abc9c;
+  text-decoration: none;
+}
+a:hover {
+  color: #F6A623;
+}
+#footer h5 {
+  color: white;
+  text-transform: capitalize;
+  letter-spacing: 0.1em;
+}
+#footer p {
+  color: white;
+}
+a {
+  color: #f47442;
   text-decoration: none;
 }
 a:hover {
